@@ -1,4 +1,6 @@
-# What is zalgo?
+*****
+What is zalgo?
+*****
 
 Zalgo is an internet meme in which English letters are replaced by variants on Z glyphs, similar to those found in Asian writing systems. The term "Zalgo" is typically associated with Edward Jenner, the name of a fictional character featured heavily in creepy pasta stories. 
 
