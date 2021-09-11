@@ -28,7 +28,7 @@ The result will be displayed below. Please note that this page is still under de
 
 No wonder they look like an error was made when printing! The text is being smudged by the other things (See above). Even though the text is still visible, it's hard to read because there are also symbols and other things on it.
 
-You can also use the zalgo generator which will create zalgo text for you. Here is the link to the zalgo generator and method “[how to use zalgo generator](https://www.calculatorology.com/zalgo-text/)”.
+You can also use the zalgo generator which will create zalgo text for you. Here is the link to the zalgo generator and method “`how to use zalgo generator <https://www.calculatorology.com/zalgo-text/>`_”.
 
 *****
 How to use zalgo generator
