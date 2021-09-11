@@ -26,5 +26,15 @@ No wonder they look like an error was made when printing! The text is being smud
 
 You can also use the zalgo generator which will create zalgo text for you. Here is the link to the zalgo generator and method “[how to use zalgo generator](https://www.calculatorology.com/zalgo-text/)”.
 
+# How to use zalgo generator
+
+Zalgo text generator is a free service that helps you create glitchy text. There was once a time when ASCII characters were used to represent numbers. It would translate numbers from 0-127 into characters. Unicode allowed us to assign a code for every character in any language. Now we can have Zalgo text which is made from combining different characters from different languages together.
+
+It is easy to make Zalgo text. Click on the given link. Zalgo generator will open you just type in normal text and it will appear on the other side, ready for you to copy and paste anywhere. You can also control the craziness of the text by adjusting the slider.
+
+You may change the amount of distortion around your text by changing the slider in the program. 
+
+You can make your text more or less distorted. When you distort the text, you can make it look messy. There are many options to choose from, and the more you increase this level, the messier your text will look.
+
 
 
