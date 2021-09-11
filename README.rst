@@ -8,7 +8,9 @@ Zalgo text is made of many characters that are put together on each letter. This
 
 You can create a text style that is scary or Halloween-themed using the online Zalgo text generator.
 
-# Zalgo Text
+*****
+Zalgo Text
+*****
 
 Zalgo text is a type of Unicode art that has been around since the internet's early days. It uses long strings of characters that stretch or shrink to cover the entire character count. Zalgo text is a scary-looking text. These are special symbols that usually go on top and below letters. Zalgo text looks creepy or glitchy.
 
@@ -28,7 +30,9 @@ No wonder they look like an error was made when printing! The text is being smud
 
 You can also use the zalgo generator which will create zalgo text for you. Here is the link to the zalgo generator and method “[how to use zalgo generator](https://www.calculatorology.com/zalgo-text/)”.
 
-# How to use zalgo generator
+*****
+How to use zalgo generator
+*****
 
 Zalgo text generator is a free service that helps you create glitchy text. There was once a time when ASCII characters were used to represent numbers. It would translate numbers from 0-127 into characters. Unicode allowed us to assign a code for every character in any language. Now we can have Zalgo text which is made from combining different characters from different languages together.
 
