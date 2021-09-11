@@ -24,7 +24,7 @@ The goal of this page is to allow anyone (with zero programming experience) to c
 
 The result will be displayed below. Please note that this page is still under development, so please contact me if you encounter any bugs or problems!
 
-![Zalgo text](https://i.imgur.com/14ZL0L6.png)
+.. image:: https://i.imgur.com/14ZL0L6.png
 
 No wonder they look like an error was made when printing! The text is being smudged by the other things (See above). Even though the text is still visible, it's hard to read because there are also symbols and other things on it.
 
