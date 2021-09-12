@@ -46,15 +46,27 @@ You can make your text more or less distorted. When you distort the text, you ca
 How to find is a string contains zalgo text
 *****
 
-Zalgo text is made from a multitude of Unicode diacritic marks. For that reason if anyone need to check if a string contains Zalgo text using this **/[\xCC\xCD]/** regular expression you can check it. This is a example in JavaScript.
+Zalgo text is made from a multitude of Unicode diacritic marks. For that reason if anyone need to check if a string contains Zalgo text using this **/[\xCC\xCD]/** regular expression you can check it. 
 
-```
-if ( str.match('/[\xCC\xCD]/') ) {
-    alert('This is a Zalgo text');
- }
-```
+This is a example in JavaScript.
+
+::
+    if ( str.match('/[\xCC\xCD]/') ) {
+        alert('This is a Zalgo text');
+     }
+
 This is in Python
 
-```
-import re
+::
+    import re
+
+    #Check if the string contains Zalgo text:
+
+    txt = "H̛̛͠ȩl̨̀͞l̨̨͘ơ̧ W͠͡͠or̶͜ld̀"
+    x = re.search("/[\xCC\xCD]/", txt)
+
+    if x:
+      print("YES! This string contains Zalgo text!")
+    else:
+      print("No match")
 
