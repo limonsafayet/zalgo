@@ -43,8 +43,10 @@ You may change the amount of distortion around your text by changing the slider 
 You can make your text more or less distorted. When you distort the text, you can make it look messy. There are many options to choose from, and the more you increase this level, the messier your text will look.
 
 *****
-How to find is a string contains Zalgo text
+How to find is a string contains zalgo text
 *****
+
+Zalgo text is made from a multitude of Unicode diacritic marks. For that reason if anyone need to check if a string contains Zalgo text using this **/[\xCC\xCD]/** regular expression you can check it. This is a example in JavaScript.
 
 
 
