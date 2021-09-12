@@ -42,5 +42,9 @@ You may change the amount of distortion around your text by changing the slider 
 
 You can make your text more or less distorted. When you distort the text, you can make it look messy. There are many options to choose from, and the more you increase this level, the messier your text will look.
 
+*****
+How to find is a string contains Zalgo text
+*****
+
 
 
