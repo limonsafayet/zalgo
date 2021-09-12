@@ -71,3 +71,6 @@ This is in Python
       print("YES! This string contains Zalgo text!")
     else:
       print("No match")
+      
+
+**Thanks and Happy Codding :)**
