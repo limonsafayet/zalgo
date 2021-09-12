@@ -70,3 +70,7 @@ This is in Python
     else:
       print("No match")
 
+::
+
+    import math
+    print 'import done'
