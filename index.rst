@@ -51,6 +51,7 @@ Zalgo text is made from a multitude of Unicode diacritic marks. For that reason 
 This is a example in JavaScript.
 
 ::
+
     if ( str.match('/[\xCC\xCD]/') ) {
         alert('This is a Zalgo text');
      }
