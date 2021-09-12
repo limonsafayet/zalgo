@@ -48,5 +48,13 @@ How to find is a string contains zalgo text
 
 Zalgo text is made from a multitude of Unicode diacritic marks. For that reason if anyone need to check if a string contains Zalgo text using this **/[\xCC\xCD]/** regular expression you can check it. This is a example in JavaScript.
 
+```
+if ( str.match('/[\xCC\xCD]/') ) {
+    alert('This is a Zalgo text');
+ }
+```
+This is in Python
 
+```
+import re
 
