@@ -58,6 +58,7 @@ This is a example in JavaScript.
 This is in Python
 
 ::
+
     import re
 
     #Check if the string contains Zalgo text:
@@ -69,8 +70,3 @@ This is in Python
       print("YES! This string contains Zalgo text!")
     else:
       print("No match")
-
-::
-
-    import math
-    print 'import done'
